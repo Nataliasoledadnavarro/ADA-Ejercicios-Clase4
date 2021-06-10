@@ -1,0 +1,18 @@
+h1, h2{font-family:"Montserrat"; font-size: 50px}
+
+.blanco{background-color:#ffffff}
+.gris{background-color:#808080;}
+.rosa{background-color:#ffc0cb ;}
+.purpura{background-color:#800080 ;}
+.verde{background-color:#008000 ;}
+
+.slategray{background-color: rgb(112, 128, 144);}
+.tomato{background-color:rgb(255, 99, 71);}
+.teal{background-color: rgb(0, 128, 128);}
+.yellow{background-color: rgb(255, 255, 0);}
+.black{background-color: rgb(0, 0, 0); color: rgb(255, 255, 255)}
+
+.bordo {background-color: hsl(0,100%,25%); color: hsl(0,100%,100%)}
+.rojo{ background-color:hsl(0, 100%, 50%); color: hsl(0,100%,100%)}
+.bordotenue{background-color:hsl(0, 40%, 50%) ;}
+.fuego{background-color:hsl(0, 100%, 50%) ;}
